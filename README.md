@@ -1,12 +1,12 @@
 # Hi, I’m **M.M.N. Lakna Premachandra**
 
-### 💡 Full Stack Developer | Software Engineering Undergraduate  
-Passionate about building beautiful, fast, and user-friendly web applications.
+### 💡 Full Stack Developer | Software Engineering Graduate 
+Passionate about building reliable, scalable, and user-focused full-stack applications.
 
 ---
 
 ## 🚀 About Me  
-- 👀 I’m deeply passionate about **Front-End Development**, UI/UX, and modern web technologies.  
+- 👀 I’m passionate about Full Stack Development, building both front-end and back-end systems, and creating smooth, user-friendly experiences.
 - 🌱 Currently exploring **advanced React**, **front-end architectures**, and **clean full-stack workflows**.  
 - 💞️ Open to collaborating on **exciting projects**, especially those that challenge my creativity and problem-solving skills.  
 - 📫 Connect with me on **LinkedIn**:  
